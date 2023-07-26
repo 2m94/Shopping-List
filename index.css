@@ -41,6 +41,8 @@ input{
 #supermarket-aisle{
 
     border-radius: 15px;
+    max-width: 350px;
+    min-width: 100px;
 }
 
 button{
