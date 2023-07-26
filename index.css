@@ -16,8 +16,16 @@ html, body{
 
 }
 
+.hero{
+    display:flex;
+    flex-direction: column;
+    margin: auto;
+
+}
+
 #shopping-list{
     color:antiquewhite;
+    
 }
 
 img{
@@ -41,8 +49,7 @@ input{
 #supermarket-aisle{
 
     border-radius: 15px;
-    max-width: 350px;
-    min-width: 100px;
+    
 }
 
 button{
