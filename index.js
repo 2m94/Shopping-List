@@ -4,7 +4,7 @@ import {getDatabase, ref, push, onValue, remove} from "https://www.gstatic.com/f
  
 const appSettings = {
 
-    databaseURL:"https://shopping-ee3d2-default-rtdb.firebaseio.com/"
+    databaseURL:"https://mom-s-shopping-list-default-rtdb.firebaseio.com/"
 }
 
 const app = initializeApp(appSettings);
